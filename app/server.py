@@ -9,7 +9,7 @@ from fastai import *
 from fastai.vision import *
 
 # export_file_url = 'https://www.dropbox.com/s/v6cuuvddq73d1e0/export.pkl?raw=1'
-export_file_url = 'https://drive.google.com/file/d/17c2-Mv52UBrZH6scAxjavxxVsWxmUldG/view?usp=sharing'
+export_file_url = 'https://drive.google.com/uc?export=download&id=17c2-Mv52UBrZH6scAxjavxxVsWxmUldG'
 export_file_name = 'export.pkl'
 
 classes = ['Fältsippa','Gulsippa','Harsyra','Kabbleka','Skogsförgätmigej']
